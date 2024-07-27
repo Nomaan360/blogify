@@ -1,5 +1,5 @@
 const obj={
-    n:"wqeqwe",
+    n:"wqeqwse",
     ag:34
     
 }
